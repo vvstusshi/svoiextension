@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SvoiExtension
 // @namespace    http://tampermonkey.net/
-// @version      0.18.9
+// @version      0.18.91
 // @description  Внешняя интеграция для amoCRM.
 // @author       vvs_tusshi
 // @match        https://*/*
